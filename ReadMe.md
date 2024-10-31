@@ -4,6 +4,6 @@ This is a Verilog design of a synchronous buffer that transfer input state to ou
 
 ##Tools
 
-VS Code
-GTKWave
-Icarus Verilog
+- VS Code
+- GTKWave
+- Icarus Verilog
